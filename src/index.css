@@ -1,0 +1,28 @@
+*{
+  margin: 0%;
+  padding: 0%;
+box-sizing: border-box;
+
+}
+.dropdown:hover .dropdown-menu { 
+  display: block;
+
+} 
+th,td{
+
+min-width: 250px;
+ padding-top: 5px;
+
+}
+
+table{
+   display: block; overflow: scroll;
+
+scroll-behavior: smooth; table-layout: fixed;
+
+width: 100%;
+}
+
+.navbar:hover{
+  color: blanchedalmond;
+}
